@@ -84,8 +84,8 @@
 .readme {
   position: relative;
   padding: 11px 35px;
-  background: #fff;
-  color: #434378;
+  background: none;
+  color: #fff;
   border: 2px solid #fff;
   font-weight: 600;
   font-size: 15px;
